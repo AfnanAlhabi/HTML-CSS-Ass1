@@ -1,0 +1,56 @@
+img{
+    position: fixed;
+    padding-left: 20px;
+    height: "200"; 
+    width: "200";
+}
+
+p {
+    font-family: Arial, "Times New Roman";
+ }
+
+.name-job{
+    text-indent: 20%
+}
+
+.description{
+    margin-left: 20%
+}
+
+.input-field{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+   
+}
+
+.illustrator-text{
+    text-align: center;
+}
+
+.button-send{
+    text-align: center;
+    background-color: rgba(220, 0, 0);
+    color: white;
+    padding: 10px 20px;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.button-contact{
+    text-align: center;
+    background-color: rgba(220, 0, 0);
+    color: white;
+    padding: 10px 20px;
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+div {
+    padding: 30px;
+    }
